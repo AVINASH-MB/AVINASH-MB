@@ -15,31 +15,29 @@
 </div>
 
 ## 👨‍💻 About Me
+<div style="background-color: #161b22; padding: 16px; border-radius: 8px; width: 100%; max-width: 650px; font-family: monospace;">
 
-![JavaScript](
+```javascript
 const avinash = {
   name: "Avinash M B",
   location: "India",
   degree: "B.C.A — Swami Dayananda College of Arts & Science (2023 - 2026)",
   role: "Full-Stack Web Developer",
-
   stack: {
     languages: ["JavaScript", "TypeScript", "PHP", "SQL", "Dart", "C"],
     frontend: ["React.js", "Tailwind CSS", "HTML5", "CSS3", "Vite"],
     backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Auth"],
     databases: ["PostgreSQL", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code", "Flutter", "pgAdmin4"],
+    tools: ["Git", "GitHub", "VS Code", "Flutter", "pgAdmin4"]
   },
-
   currentlyLearning: ["Advanced TypeScript", "React"],
-
   funFact: "Shipped a production-ready AI-powered finance app with zero TypeScript errors 🚀",
-
-  motto: () => "Build it complete. Ship it clean. Present it well.",
+  motto: () => "Build it complete. Ship it clean. Present it well."
 };
 
-console.log(avinash.motto());)
+console.log(avinash.motto());
 
+<div>
 
 ## 🛠️ Tech Stack
 
