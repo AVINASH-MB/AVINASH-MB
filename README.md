@@ -100,14 +100,6 @@ console.log(avinash.motto());
 
 </div>
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AVINASH-MB&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15)
-
-</div>
-
 ## 💼 Work Experience
 
 <details>
@@ -133,7 +125,6 @@ console.log(avinash.motto());
 
 </div>
 
-<sub>🔧 Replace the `#` project links above with your actual GitHub repo URLs.</sub>
 
 ## 🏅 Achievements
 
