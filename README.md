@@ -15,15 +15,9 @@
 </div>
 
 
-```markdown
-## 👨‍💻 About Me
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=gradient&customColorList=6,11,20&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=34&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=68&descSize=18"
-  />
-</p>
+![About Me](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=👨‍💻%20About%20Me&fontSize=34&fontColor=ffffff&desc=Passionate%20Full-Stack%20Developer%20|%20React%20•%20Node.js%20•%20PostgreSQL&descSize=18&descAlignY=68)
+
 
 - 🎓 **BCA Graduate** from **Swami Dayananda College of Arts & Science**
 - 💻 Passionate **Full-Stack Web Developer** who enjoys building responsive, scalable, and user-friendly web applications
@@ -34,9 +28,6 @@
 - 🎯 **Career Goal:** Become a skilled Full-Stack Software Engineer and contribute to high-quality software products
 
 > 💡 **"Build it complete. Ship it clean. Present it well."**
-```
-
-
 
 ## 🛠️ Tech Stack
 
