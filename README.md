@@ -79,8 +79,8 @@ console.log(avinash.motto());
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AVINASH-MB&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVINASH-MB&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="39%" />
 
 </div>
 
@@ -88,7 +88,7 @@ console.log(avinash.motto());
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0D1117&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AVINASH-MB&theme=tokyonight&background=0D1117&hide_border=true)
 
 </div>
 
@@ -96,7 +96,7 @@ console.log(avinash.motto());
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AVINASH-MB&theme=tokyo-night&bg_color=0d1117&hide_border=true)
 
 </div>
 
@@ -104,7 +104,7 @@ console.log(avinash.motto());
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AVINASH-MB&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15)
 
 </div>
 
