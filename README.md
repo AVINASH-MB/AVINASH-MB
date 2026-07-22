@@ -37,7 +37,7 @@ const avinash = {
 
 console.log(avinash.motto());
 
-<div>
+</div>
 
 ## 🛠️ Tech Stack
 
