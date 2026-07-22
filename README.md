@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+javascript
 const avinash = {
   name: "Avinash M B",
   location: "India",
@@ -39,7 +39,7 @@ const avinash = {
 };
 
 console.log(avinash.motto());
-```
+
 
 ## 🛠️ Tech Stack
 
