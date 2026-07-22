@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-javascript
+![JavaScript](
 const avinash = {
   name: "Avinash M B",
   location: "India",
@@ -38,7 +38,7 @@ const avinash = {
   motto: () => "Build it complete. Ship it clean. Present it well.",
 };
 
-console.log(avinash.motto());
+console.log(avinash.motto());)
 
 
 ## 🛠️ Tech Stack
