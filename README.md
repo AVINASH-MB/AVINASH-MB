@@ -4,13 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+PostgreSQL;Building+ExpenseFlow+-+AI-Powered+Finance+App;Turning+Ideas+Into+Production-Ready+Code)](https://github.com/aswath_tamilan)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aswath_tamilan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswath-tamilan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AVINASH-MB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-m-b-121562317)
 <!-- 🔧 replace with your real LinkedIn URL -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avinash200577@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://avinash-mb.github.io/portfolio/)
 <!-- 🔧 replace with your real portfolio URL -->
-![Profile Views](https://komarev.com/ghpvc/?username=aswath_tamilan&style=flat-square&color=6c11ff)
+![Profile Views](https://komarev.com/ghpvc/?username=AVINASH-MB&style=flat-square&color=6c11ff)
 
 </div>
 
