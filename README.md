@@ -13,22 +13,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AVINASH-MB&style=flat-square&color=6c11ff)
 
 </div>
-
-
-
-![About Me](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=220&section=header&text=👨‍💻%20About%20Me&fontSize=34&fontColor=ffffff&desc=Passionate%20Full-Stack%20Developer%20|%20React%20•%20Node.js%20•%20PostgreSQL&descSize=18&descAlignY=68)
-
+## 👨‍💻 About Me
 
 - 🎓 **BCA Graduate** from **Swami Dayananda College of Arts & Science**
-- 💻 Passionate **Full-Stack Web Developer** who enjoys building responsive, scalable, and user-friendly web applications
-- 🚀 Built **ExpenseFlow**, an AI-powered personal finance management system featuring authentication, analytics, budgeting, reports, and AI-powered insights
-- 📱 Completed a **Mobile App Developer Internship** at **Anicha Digital Infrastructure Pvt. Ltd.**, where I developed Android applications using Flutter
-- 🌱 Currently learning **Advanced TypeScript**, **System Design**, and modern backend development
-- 🤝 Always eager to learn new technologies and build impactful software
-- 🎯 **Career Goal:** Become a skilled Full-Stack Software Engineer and contribute to high-quality software products
-
-> 💡 **"Build it complete. Ship it clean. Present it well."**
-
+- 💻 Passionate **Full-Stack Web Developer**
+- 🚀 Developed **ExpenseFlow**, an AI-powered finance management system
+- 💡 **Motto:** *"Build it complete. Ship it clean. Present it well."*
 ## 🛠️ Tech Stack
 
 **Languages**
