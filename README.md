@@ -2,23 +2,28 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avinash%20M%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+PostgreSQL;Building+ExpenseFlow+-+AI-Powered+Finance+App;Turning+Ideas+Into+Production-Ready+Code)](https://github.com/aswath_tamilan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+PostgreSQL;Building+ExpenseFlow+-+AI-Powered+Finance+App;Turning+Ideas+Into+Production-Ready+Code)](https://github.com/AVINASH-MB)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AVINASH-MB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-m-b-121562317)
-<!-- 🔧 replace with your real LinkedIn URL -->
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avinash200577@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://avinash-mb.github.io/portfolio/)
-<!-- 🔧 replace with your real portfolio URL -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AVINASH-MB&style=flat-square&color=6c11ff)
 
 </div>
+
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Graduate** from **Swami Dayananda College of Arts & Science**
-- 💻 Passionate **Full-Stack Web Developer**
-- 🚀 Developed **ExpenseFlow**, an AI-powered finance management system
-- 💡 **Motto:** *"Build it complete. Ship it clean. Present it well."*
+- 🎓 BCA student (2023 – 2026) at Swami Dayananda College of Arts & Science, Kumbakonam, Tamil Nadu
+- 💻 Full-stack web developer building production-ready apps with **React, Node.js, Express & PostgreSQL**
+- 🚀 Shipped **ExpenseFlow**, an AI-powered personal finance platform — designed and built end to end, UI to database
+- 📱 Built and deployed Android apps with **Flutter** during a mobile development internship
+- 🌱 Currently leveling up in **Advanced TypeScript, System Design & Cloud Deployment**
+- 💬 Ask me about React, Node.js/Express APIs, or PostgreSQL
+- 📫 Reach me at **avinash200577@gmail.com**
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -57,8 +62,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AVINASH-MB&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVINASH-MB&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="39%" />
 
 </div>
 
@@ -66,7 +71,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AVINASH-MB&theme=tokyonight&background=0D1117&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AVINASH-MBn&theme=tokyonight&background=0D1117&hide_border=true)
 
 </div>
 
@@ -78,10 +83,18 @@
 
 </div>
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AVINASH-MB&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15)
+
+</div>
+
 ## 💼 Work Experience
 
 <details>
-<summary><b>📱 Mobile App Developer Intern — Anicha Digital Infrastructure Pvt. Ltd.</b> (May 2024 – Jun 2024) · Avadi, Chennai</summary>
+<summary><b>📱 Mobile App Developer — Anicha Digital Infrastructure Pvt. Ltd.</b> (May 2024 – Jun 2024) · Avadi, Chennai</summary>
 <br>
 
 - Designed and developed multiple Android applications — including a calculator, music player, and gallery app — using the Flutter framework.
@@ -102,6 +115,7 @@
 | **Android Utility Apps Suite** | Flutter · Dart | Calculator, music player, and gallery app built during a mobile development internship, with a focus on responsive UI and efficient state management. |
 
 </div>
+
 
 
 ## 🏅 Achievements
@@ -128,6 +142,7 @@ Little Flower Higher Secondary School · 2022 – 2023
 
 - Advanced TypeScript patterns
 - System design fundamentals
+- Cloud deployment (AWS / Render / Railway)
 
 ---
 
